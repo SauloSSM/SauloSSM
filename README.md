@@ -35,7 +35,7 @@ Me considero muito capaz para encarar ambientes desafiadores e com propostas de 
 
 ### 📊 Status
 
-![SSSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloSSM&theme=dark&show_icon=true&commits_year=2025)
+![SSSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloSSM&theme=dark&show_icons=true&commits_year=2025)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloSSM&layout=compact&theme=dark)
 
 #
