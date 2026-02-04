@@ -2,10 +2,10 @@
 
 **`[Back-End Developer]`**
 
-Saulo, 19 anos - aspirante a programador. 
+Saulo, 20 anos - desenvolvedor de software. 
 Possuo o `brio` e a `determinação` para evoluir diariamente. 
 Mesmo que aprendendo 1% por dia, sei que terei evoluido muito ao longo do tempo.
-Me considero muito capaz para encarar ambientes desafiadores e com propostas de extrair o 100% de um desenvolvedor.
+Me considero muito capaz para encarar ambientes desafiadores e com propostas de extrair o 100% de uma pessoa.
 
    <p align="left">
         <a href ="mailto:saulostuque3@gmail.com">
