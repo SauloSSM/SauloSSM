@@ -28,13 +28,6 @@ Me considero muito capaz para encarar ambientes desafiadores e com propostas de 
 
 #
 
-### 📊 Status
-
-![SauloSSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloSSM&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloSSM&layout=compact&theme=dark)
-
-#
-
 <details>
  <summary><h3>👨‍💻 Saulo's Coding Journey</h3></summary>
     Atualmente curso "Análise e Desenvolvimento de Sistemas" na "FATEC - Ribeirão Preto", onde venho construindo uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de software.
