@@ -6,10 +6,10 @@ Desenvolvedor de software focado no ecossistema Java. Dedicado a dominar o Java 
 
 <p align="left">
     <a href="mailto:saulostuque3@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     </a>
     <a href="https://www.linkedin.com/in/saulo-da-silva-stuque-menegucci-a6669635a/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </a>
 </p>
 
