@@ -62,6 +62,5 @@ Desenvolvedor de software focado no ecossistema Java. Dedicado a dominar o Java 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SauloSSM&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Saulo's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloSSM&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SauloSSM&theme=dark" alt="GitHub Streak" height="150" />
 </p>
