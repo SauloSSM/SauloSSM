@@ -1,37 +1,67 @@
-# SauloSSM (^-^)/
+# SauloSSM 👋
 
-**`[Back-End Developer]`**
+**`[Back-End Developer | Java]`**
 
-Saulo, 20 anos - desenvolvedor de software. 
-Possuo o `brio` e a `determinação` para evoluir diariamente. 
-Mesmo que aprendendo 1% por dia, sei que terei evoluido muito ao longo do tempo.
-Me considero muito capaz para encarar ambientes desafiadores e com propostas de extrair o 100% de uma pessoa.
+Desenvolvedor de software focado no ecossistema Java. Dedicado a dominar o Java Core e as tecnologias que envolvem a linguagem através de estudo prático diário. Priorizo a consistência de código, commits frequentes e a disciplina para evoluir continuamente.
 
-   <p align="left">
-        <a href ="mailto:saulostuque3@gmail.com">
-            <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/saulo-da-silva-stuque-menegucci-a6669635a/" target="_blank">
-            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   </p>
+<p align="left">
+    <a href="mailto:saulostuque3@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/saulo-da-silva-stuque-menegucci-a6669635a/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</p>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ Core Tech Stack
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+**Linguagens**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" title="Java" alt="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" title="SQL / MySQL" alt="MySQL" />
+</p>
 
-<br />
+**Frameworks & Ecossistema**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" title="Spring Boot" alt="Spring" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="35" title="Apache Maven" alt="Maven" />
+</p>
 
-#
+**Ferramentas & Ambiente**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="35" title="IntelliJ IDEA" alt="IntelliJ" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" title="Postman" alt="Postman" />
+</p>
 
-<details>
- <summary><h3>👨‍💻 Saulo's Coding Journey</h3></summary>
-    Atualmente curso "Análise e Desenvolvimento de Sistemas" na "FATEC - Ribeirão Preto", onde venho construindo uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de software.
-  
-  O que mais me motiva é pensar que com muito esforço e dedicação posso transformar o que eu imaginar em algo real e isso para mim é realmente muito incrível.
-  
-  Essa é apenas a primeira parte da minha trajetória — e estou apenas começando.
+---
+
+### 🚀 Projetos em Destaque
+
+* **[HelpMom](https://github.com/seu-usuario/helpmom)**
+   * *Descrição:* Aplicação de gestão e transações financeiras focada em consistência de dados e regras de negócio estruturadas.
+   * *Destaque Técnico:* Modelagem de domínio e regras de negócio com Orientação a Objetos, organização estruturada de pacotes, consistência de dados e versionamento profissional com Conventional Commits.
+
+* **[Dungeon Crawler RPG](https://github.com/seu-usuario/dungeon-crawler)**
+   * *Descrição:* Jogo de masmorra em modo texto desenvolvido para aplicar conceitos avançados de Java Core.
+   * *Destaque Técnico:* Arquitetura focada em extensibilidade de componentes, manipulação eficiente de estruturas de dados em memória e aplicação prática de padrões de comportamento de entidades (Java Core).
+
+---
+
+### 🎓 Trajetória Acadêmica & Metodologia
+
+* **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (FATEC).
+* **Abordagem de Desenvolvimento:** Foco total no domínio prático do Java Core. Priorizo o entendimento real da lógica e da estrutura da linguagem, garantindo que cada novo conceito seja validado diretamente em código.
+* **Filosofia de Trabalho:** Disciplina diária e constância. Mantenho o ritmo de desenvolvimento e estudo contínuo mesmo diante de rotinas exaustivas, priorizando um histórico de commits limpo, frequente e padronizado no repositório.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SauloSSM&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Saulo's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloSSM&layout=compact&theme=dark&hide=html,css" alt="Top Languages" height="150" />
+</p>
