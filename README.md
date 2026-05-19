@@ -85,5 +85,6 @@
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=SauloSSM&theme=everforest-dark&date_format=j%2Fn%5B%2FY%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</div>
+        <img src="https://github-readme-streak-stats-steel-iota.vercel.app?user=SauloSSM&theme=github-dark-dimmed&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+    </a>
+<div/>
