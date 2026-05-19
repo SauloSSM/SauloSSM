@@ -32,8 +32,8 @@ Desenvolvedor de software focado no ecossistema Java. Dedicado a dominar o Java 
 **Ferramentas & Ambiente**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="35" title="IntelliJ IDEA" alt="IntelliJ" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" title="Postman" alt="Postman" />
 </p>
 
@@ -61,6 +61,6 @@ Desenvolvedor de software focado no ecossistema Java. Dedicado a dominar o Java 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SauloSSM&theme=dark" alt="GitHub Streak" height="150" />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SauloSSM&theme=shadow-brown&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
