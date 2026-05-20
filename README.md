@@ -79,7 +79,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Estatísticas de Commit </h2>
+<h2 align="center">⚡ Sequência de Commit </h2>
 
 <br/>
 
@@ -88,3 +88,16 @@
         <img src="https://github-readme-streak-stats-steel-iota.vercel.app?user=SauloSSM&theme=github-dark-dimmed&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
     </a>
 <div/>
+
+<br/>
+<hr/>
+
+<h2 align="center">💻 Status do GitHub </h2>
+
+<br/>
+
+<div align="center">
+    <a href="https://github.com/SauloSSM/github-readme-stats">
+        <img src="https://anuraghazra-github-readme-stats-delta.vercel.app/api?username=SauloSSM&show_icons=true&theme=github_dark_dimmed" alt="GitHub Profile" />
+    </a>
+</div>
