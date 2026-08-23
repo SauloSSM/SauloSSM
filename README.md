@@ -1,102 +1,169 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=35&duration=3000&pause=1000&color=FF5C00&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B%F0%9F%8F%BC;Me+chamo+Saulo!;Aceita+um+caf%C3%A9%3F%E2%98%95" alt="Typing SVG"/>
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=35&duration=3000&pause=1000&color=FF5C00&center=true&vCenter=true&width=550&height=70&lines=Hi!+I'm+Saulo+%F0%9F%91%8B;Java+Back-End+Developer;Want+a+Coffee%3F+%E2%98%95" alt="Typing SVG"/>
+  </a>
 </div>
 
-<br/>
-<hr/>
+**Java Back-End Developer** | **Software Development Student**
 
-<div align="center">
-  <h3>Desenvolvedor Back-End Java</h3>
-    <br/>
-</div>
+My main focus is **back-end development with Java and Spring Boot**, especially REST APIs, business rules, database modeling, testing, and software architecture.
 
-<div align="center">
-<p>
-    Desenvolvedor de software focado no ecossistema Java. Dedicado a dominar o Java Core e as tecnologias que envolvem a linguagem através de estudo prático diário. Priorizo a consistência     de código, commits frequentes e a disciplina para evoluir continuamente.
-</p>
-</div>
+I also enjoy exploring front-end technologies and using **AI-assisted development** to accelerate implementation and investigation while keeping technical decisions, code review, and validation under my responsibility.
 
-<br/>
 
-<div align="center"> 
-   <a href="mailto:saulostuque3@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/saulo-da-silva-stuque-menegucci-a6669635a/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-</div>
+## 🚀 Featured Project: Tá em Cartaz
 
-<br/>
-<hr/>
+### 🎟️ Event Ticketing Platform
 
-<h2 align="center">🛠️ Languages & Data Bases/Frameworks/Tools</h2>
+**Elite Dev 2026 Technical Challenge**
 
-<br/>
+A complete event and ticketing platform covering the entire flow from event creation to ticket validation at the gate.
 
-<div align="center">
-    <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,postgresql,mysql,spring,maven,gradle,idea,github,git,postman" />
-      </a>
-    </p>
-</div>
+### Technical Highlights
 
-<br/>
-<hr/>
+* **Java 21 + Spring Boot** back-end
+* **React + TypeScript + Vite** front-end
+* PostgreSQL with Flyway migrations
+* Modular monolith architecture
+* Authentication and authorization with Spring Security and JWT
+* Role-based access control
+* Transactional ticket reservations to prevent overselling
+* Idempotency for critical operations
+* Temporary reservation holds
+* Simulated payment flow
+* Digital ticket generation with QR Code
+* Gate validation flow
+* Automated tests
+* Docker
+* Production deployment
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
+[GitHub Repository](https://github.com/SauloSSM/ta-em-cartaz) | [Live Application](https://ta-em-cartaz.vercel.app/)
 
-<br/>
 
-<div align="center">
-  <h3><a href="https://github.com/SauloSSM/helpmom">HelpMom</a></h3>
-  <p><i>Descrição:</i> Aplicação de gestão e transações financeiras focada em consistência de dados e regras de negócio estruturadas.</p>
-  <p><i>Foco Técnico:</i> Modelagem de domínio com Orientação a Objetos, organização estruturada de pacotes, encapsulamento rigoroso e aplicação de conceitos de imutabilidade em dados críticos.</p>
+## 🛠️ Projects I'm Building
+
+### 🎫 Helpdesk API
+
+A help desk management API focused on strengthening the fundamentals of a **clean and well-structured layered/MVC architecture** with Spring Boot.
+
+The project is being developed with simplicity in mind: clear responsibilities, business rules in the right layers, validation, error handling, persistence, and automated testing.
+
+**Planned features:**
+
+* Ticket management
+* Users and support agents
+* Priorities and categories
+* Ticket status workflow
+* Interaction history
+* Filtering and pagination
+* Authentication and authorization
+* Unit and integration tests
+
+**Stack:** Java • Spring Boot • Spring Data JPA • PostgreSQL
+
+[GitHub Repository](https://github.com/SauloSSM/helpdesk-api)
+
+##
+### 🪖 Sentinela TG
+
+A system designed to assist with the management of **personnel, duties, availability, and service schedules**.
+
+Unlike my other projects, Sentinela has a stronger focus on **domain rules and automated scheduling**, including constraints such as availability, conflicts, service distribution, and minimum rest periods.
+
+**Planned architecture & stack:**
+
+* Java + Spring Boot
+* Angular + TypeScript
+* PostgreSQL
+* Modular monolith
+* Isolated and testable domain rules
+* Automated schedule generation
+* Conflict validation
+* Authentication and role-based authorization
+* Automated testing
+
+This project will also be an opportunity to deepen my knowledge of **Angular and domain-oriented software design**.
+
+
+## 💡 Core Technologies
+
+### Back-End
+
+<a href="https://www.java.com/">
+  <img height="35" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+</a>
+<a href="https://spring.io/projects/spring-boot">
+  <img height="35" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+</a>
+<a href="https://hibernate.org/">
+  <img height="35" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+</a>
+<a href="https://maven.apache.org/">
+  <img height="35" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+</a>
+
+### Database
+
+<a href="https://www.postgresql.org/">
+  <img height="35" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+<a href="https://www.mysql.com/">
+  <img height="35" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+### Front-End
+
+<a href="https://react.dev/">
+  <img height="35" src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img height="35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+<a href="https://vite.dev/">
+  <img height="35" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+</a>
+
+### Tools & Infrastructure
+
+<a href="https://git-scm.com/">
+  <img height="35" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://www.docker.com/">
+  <img height="35" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+<a href="https://www.postman.com/">
+  <img height="35" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</a>
+
+## 🧠 What I'm Currently Learning
+
+* ☕ **Java & Spring Ecosystem** – Deepening my knowledge of back-end development
+* 🏗️ **Software Architecture** – Modular monoliths, domain modeling, and architectural decisions
+* 🧪 **Automated Testing** – Building more reliable and maintainable applications
+* 🗄️ **Databases** – PostgreSQL, SQL, persistence, and data modeling
+* 🅰️ **Angular** – Building structured front-end applications
+* 🐳 **Docker & Deployment** – Improving application delivery and environments
+* ☁️ **AWS & Cloud Computing** – Learning cloud fundamentals and infrastructure
+
+## 📊 GitHub Stats
 
   <br/>
 
-  <h3><a href="https://github.com/SauloSSM/dungeon-crawler">Dungeon Crawler RPG</a></h3>
-  <p><i>Descrição:</i> Jogo de masmorra em modo texto desenvolvido para aplicar conceitos avançados de Java Core.</p>
-  <p><i>Foco Técnico:</i> Arquitetura focada em extensibilidade de componentes, manipulação eficiente de estruturas de dados em memória e aplicação prática de padrões de comportamento de entidades (Java Core).</p>
-</div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats-steel-iota.vercel.app?user=SauloSSM&theme=github-dark-dimmed&locale=en&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">🎓 Trajetória Acadêmica & Metodologia</h2>
-
-<br/>
-
+##
 <div align="center">
-  <p><b>Formação:</b> Graduando em Análise e Desenvolvimento de Sistemas (FATEC).</p>
-  <p><b>Abordagem de Desenvolvimento:</b> Foco total no domínio prático do Java Core. Priorizo o entendimento real da lógica e da estrutura da linguagem, garantindo que cada novo conceito seja validado diretamente em código.</p>
-  <p><b>Filosofia de Trabalho:</b> Disciplina diária e constância. Mantenho o ritmo de desenvolvimento e estudo contínuo mesmo diante de rotinas exaustivas, priorizando um histórico de commits limpo, frequente e padronizado no repositório.</p>
-</div>
+<a href="mailto:saulostuque3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<br/>
-<hr/>
+<a href="https://www.linkedin.com/in/saulo-da-silva-stuque-menegucci-a6669635a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<h2 align="center">⚡ Sequência de Commit </h2>
-
-<br/>
-
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-steel-iota.vercel.app?user=SauloSSM&theme=github-dark-dimmed&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-<div/>
-
-<br/>
-<hr/>
-
-<h2 align="center">💻 Status do GitHub </h2>
-
-<br/>
-
-<div align="center">
-    <a href="https://github.com/SauloSSM/github-readme-stats">
-        <img src="https://anuraghazra-github-readme-stats-delta.vercel.app/api?username=SauloSSM&show_icons=true&theme=github_dark_dimmed" alt="GitHub Profile" />
-    </a>
+<a href="https://github.com/SauloSSM">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </div>
