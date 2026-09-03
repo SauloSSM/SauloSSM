@@ -6,10 +6,13 @@
 
 **Java Back-End Developer** | **Software Development Student**
 
-My main focus is **back-end development with Java and Spring Boot**, especially REST APIs, business rules, database modeling, testing, and software architecture.
+I build back-end applications with **Java and Spring Boot**, with a growing focus on **business rules, REST API design, data modeling, automated testing, and software architecture**.
 
-I also enjoy exploring front-end technologies and using **AI-assisted development** to accelerate implementation and investigation while keeping technical decisions, code review, and validation under my responsibility.
+Most of my projects are based on real problems or technical challenges, which gives me the opportunity to go beyond basic CRUD operations and work with topics such as **transactions, concurrency, idempotency, authentication, domain rules, and application architecture**.
 
+I also work with front-end technologies when a project requires an end-to-end solution, mainly using **React, TypeScript, and Angular**.
+
+AI-assisted development is part of my workflow for research, investigation, implementation support, and iteration, while **architectural decisions, code review, debugging, and technical validation remain under my responsibility**.
 
 ## 🚀 Featured Project: Tá em Cartaz
 
@@ -17,73 +20,100 @@ I also enjoy exploring front-end technologies and using **AI-assisted developmen
 
 **Elite Dev 2026 Technical Challenge**
 
-A complete event and ticketing platform covering the entire flow from event creation to ticket validation at the gate.
-
-### Technical Highlights
-
-* **Java 21 + Spring Boot** back-end
-* **React + TypeScript + Vite** front-end
-* PostgreSQL with Flyway migrations
-* Modular monolith architecture
-* Authentication and authorization with Spring Security and JWT
-* Role-based access control
-* Transactional ticket reservations to prevent overselling
-* Idempotency for critical operations
-* Temporary reservation holds
-* Simulated payment flow
-* Digital ticket generation with QR Code
-* Gate validation flow
-* Automated tests
-* Docker
-* Production deployment
-
 [GitHub Repository](https://github.com/SauloSSM/ta-em-cartaz) | [Live Application](https://ta-em-cartaz.vercel.app/)
 
+**Tá em Cartaz** is a full-stack event ticketing platform covering the complete flow from **event creation and publishing to ticket purchase and gate validation**.
+
+The project was built around problems that go beyond basic CRUD operations, including **reservation concurrency, temporary holds, idempotent operations, authentication, transactional consistency, and ticket validation**.
+
+### ⚙️ Back-End
+
+* Java 21
+* Spring Boot
+* Spring Security
+* Spring Data JPA / Hibernate
+* PostgreSQL
+* Flyway
+* REST APIs
+* JWT authentication
+* Role-based authorization
+* Modular monolith architecture
+
+### 🧩 Engineering Highlights
+
+* Transactional ticket reservations designed to prevent overselling
+* Pessimistic locking for inventory-sensitive operations
+* Temporary reservation holds with automatic expiration
+* Idempotency for critical payment and ticket-validation operations
+* Simulated payment workflow
+* Digital ticket generation with QR Codes
+* Gate validation with event and ticket-state verification
+* Validation and centralized error handling
+* Database migrations and seed data
+* Automated testing
+* Dockerized environments
+* Production deployment
+
+### 🎨 Front-End
+
+Built with **React, TypeScript, and Vite**, with separate experiences for event organizers, customers, and gate operators.
 
 ## 🛠️ Projects I'm Building
 
 ### 🎫 Helpdesk API
 
-A help desk management API focused on strengthening the fundamentals of a **clean and well-structured layered/MVC architecture** with Spring Boot.
+[GitHub Repository](https://github.com/SauloSSM/helpdesk-api)
 
-The project is being developed with simplicity in mind: clear responsibilities, business rules in the right layers, validation, error handling, persistence, and automated testing.
+A help desk management API I'm building to strengthen the fundamentals of a **clean and maintainable Spring Boot application**.
 
-**Planned features:**
+Instead of introducing unnecessary architectural complexity, the goal is to practice organizing a back-end correctly: keeping responsibilities clear, placing business rules in the appropriate layers, designing consistent APIs, handling failures properly, and building a solid automated testing strategy.
+
+### Main Areas
 
 * Ticket management
 * Users and support agents
-* Priorities and categories
-* Ticket status workflow
+* Categories and priorities
+* Ticket lifecycle and status transitions
 * Interaction history
-* Filtering and pagination
+* Filtering, sorting, and pagination
 * Authentication and authorization
-* Unit and integration tests
+* Validation and centralized error handling
+* Unit and integration testing
 
-**Stack:** Java • Spring Boot • Spring Data JPA • PostgreSQL
-
-[GitHub Repository](https://github.com/SauloSSM/helpdesk-api)
+**Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • PostgreSQL • Maven
 
 ##
+
 ### 🪖 Sentinela TG
 
-A system designed to assist with the management of **personnel, duties, availability, and service schedules**.
+A personnel and duty-management system focused on a more **rule-intensive domain**.
 
-Unlike my other projects, Sentinela has a stronger focus on **domain rules and automated scheduling**, including constraints such as availability, conflicts, service distribution, and minimum rest periods.
+Sentinela is designed to manage **personnel, duties, availability, absences, and service schedules**, with particular attention to the constraints involved in generating fair and valid schedules.
 
-**Planned architecture & stack:**
+Unlike simpler management systems, the main challenge is not only storing information but **modeling domain rules and making decisions based on multiple constraints**.
+
+### Domain Challenges
+
+* Personnel availability
+* Duty eligibility
+* Schedule conflicts
+* Minimum rest periods
+* Fair distribution of services
+* Absences and restrictions
+* Automated schedule generation
+* Conflict detection and validation
+
+### Planned Architecture & Stack
 
 * Java + Spring Boot
 * Angular + TypeScript
 * PostgreSQL
 * Modular monolith
 * Isolated and testable domain rules
-* Automated schedule generation
-* Conflict validation
 * Authentication and role-based authorization
 * Automated testing
 
-This project will also be an opportunity to deepen my knowledge of **Angular and domain-oriented software design**.
-
+This project is also an opportunity to deepen my knowledge of **Angular and domain-oriented software design**.
 
 ## 💡 Core Technologies
 
@@ -122,6 +152,9 @@ This project will also be an opportunity to deepen my knowledge of **Angular and
 <a href="https://vite.dev/">
   <img height="35" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </a>
+<a href="https://angular.dev/">
+  <img height="35" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</a>
 
 ### Tools & Infrastructure
 
@@ -135,26 +168,30 @@ This project will also be an opportunity to deepen my knowledge of **Angular and
   <img height="35" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </a>
 
-## 🧠 What I'm Currently Learning
+## 🧠 What I'm Deepening
 
-* ☕ **Java & Spring Ecosystem** – Deepening my knowledge of back-end development
-* 🏗️ **Software Architecture** – Modular monoliths, domain modeling, and architectural decisions
-* 🧪 **Automated Testing** – Building more reliable and maintainable applications
-* 🗄️ **Databases** – PostgreSQL, SQL, persistence, and data modeling
-* 🅰️ **Angular** – Building structured front-end applications
-* 🐳 **Docker & Deployment** – Improving application delivery and environments
-* ☁️ **AWS & Cloud Computing** – Learning cloud fundamentals and infrastructure
+* ☕ **Java & Spring Ecosystem** – Strengthening my back-end fundamentals and understanding of the Spring ecosystem
+* 🏗️ **Software Architecture** – Modular monoliths, boundaries, coupling, domain modeling, and architectural trade-offs
+* 🧩 **Domain Modeling** – Translating real-world constraints and business rules into maintainable software
+* 🧪 **Automated Testing** – Improving unit, integration, and end-to-end testing strategies
+* 🔄 **Concurrency & Transactions** – Understanding consistency and safe operations in business-critical flows
+* 🗄️ **Database Design** – PostgreSQL, SQL, persistence, migrations, and data modeling
+* 🅰️ **Angular** – Expanding beyond React and learning structured front-end architecture
+* 🐳 **Docker & Deployment** – Building reproducible environments and improving application delivery
+* ☁️ **AWS & Cloud Computing** – Learning cloud fundamentals, infrastructure, and deployment concepts
 
 ## 📊 GitHub Stats
 
-  <br/>
+<br/>
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats-steel-iota.vercel.app?user=SauloSSM&theme=github-dark-dimmed&locale=en&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats-steel-iota.vercel.app?user=SauloSSM&theme=github-dark-dimmed&locale=en&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
 ##
+
 <div align="center">
+
 <a href="mailto:saulostuque3@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -166,4 +203,5 @@ This project will also be an opportunity to deepen my knowledge of **Angular and
 <a href="https://github.com/SauloSSM">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 </div>
