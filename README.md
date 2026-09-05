@@ -4,116 +4,81 @@
   </a>
 </div>
 
-**Java Back-End Developer** | **Software Development Student**
+**Back-End Developer focused on Java & Spring Boot** | **Software Development Student**
 
-I build back-end applications with **Java and Spring Boot**, with a growing focus on **business rules, REST API design, data modeling, automated testing, and software architecture**.
+I build back-end applications with **Java and Spring Boot**, with a growing focus on **business rules, REST API design, data modeling, automated testing, transactions, and software architecture**.
 
-Most of my projects are based on real problems or technical challenges, which gives me the opportunity to go beyond basic CRUD operations and work with topics such as **transactions, concurrency, idempotency, authentication, domain rules, and application architecture**.
+Most of my projects come from real problems or technical challenges, giving me the opportunity to work beyond basic CRUD operations and explore topics such as **concurrency, idempotency, authentication, authorization, domain rules, database migrations, and application structure**.
 
 I also work with front-end technologies when a project requires an end-to-end solution, mainly using **React, TypeScript, and Angular**.
 
-AI-assisted development is part of my workflow for research, investigation, implementation support, and iteration, while **architectural decisions, code review, debugging, and technical validation remain under my responsibility**.
+AI-assisted development is part of my workflow for **research, implementation support, investigation, and iteration**. I actively review, test, debug, and deepen my understanding of the code and technical decisions behind what I build.
 
-## 🚀 Featured Project: Tá em Cartaz
+## 🚀 Featured Projects
 
-### 🎟️ Event Ticketing Platform
+### 🪖 Sentinela TG
+
+A rule-intensive **personnel and duty-management system** built to support service scheduling, availability, absences, substitutions, and operational reporting.
+
+The MVP has already been deployed and is currently being validated through a **real-world pilot**, making the project especially valuable for learning about software maintenance, domain modeling, stability, database evolution, security, and deployment.
+
+#### Main Challenges
+
+* Independent scheduling rotations
+* Minimum rest periods and availability restrictions
+* Different personnel roles and eligibility rules
+* Assisted schedule generation
+* Absences, substitutions, and duty exchanges
+* Conflict detection and validation
+* Authentication and role-based authorization
+* Database migrations and production deployment
+
+**Stack:** Java 25 • Spring Boot • Spring Security • Spring Data JPA • Hibernate • PostgreSQL • Flyway • Angular • TypeScript • GitHub Actions • Railway
+
+---
+
+### 🎟️ Tá em Cartaz
 
 **Elite Dev 2026 Technical Challenge**
 
 [GitHub Repository](https://github.com/SauloSSM/ta-em-cartaz) | [Live Application](https://ta-em-cartaz.vercel.app/)
 
-**Tá em Cartaz** is a full-stack event ticketing platform covering the complete flow from **event creation and publishing to ticket purchase and gate validation**.
+A full-stack event ticketing platform covering the complete flow from **event creation and publishing to ticket purchase and gate validation**.
 
-The project was built around problems that go beyond basic CRUD operations, including **reservation concurrency, temporary holds, idempotent operations, authentication, transactional consistency, and ticket validation**.
+The project was built around problems that go beyond basic CRUD operations, especially **reservation concurrency, temporary holds, transactional consistency, idempotent operations, authentication, and ticket validation**.
 
-### ⚙️ Back-End
-
-* Java 21
-* Spring Boot
-* Spring Security
-* Spring Data JPA / Hibernate
-* PostgreSQL
-* Flyway
-* REST APIs
-* JWT authentication
-* Role-based authorization
-* Modular monolith architecture
-
-### 🧩 Engineering Highlights
+#### Engineering Highlights
 
 * Transactional ticket reservations designed to prevent overselling
 * Pessimistic locking for inventory-sensitive operations
-* Temporary reservation holds with automatic expiration
-* Idempotency for critical payment and ticket-validation operations
-* Simulated payment workflow
-* Digital ticket generation with QR Codes
+* Temporary reservation holds with expiration
+* Idempotency for payment and ticket-validation flows
+* Authentication with Spring Security and JWT
+* Role-based authorization
 * Gate validation with event and ticket-state verification
 * Validation and centralized error handling
-* Database migrations and seed data
-* Automated testing
-* Dockerized environments
-* Production deployment
+* Flyway migrations and PostgreSQL persistence
+* Automated tests
+* Dockerized environment and production deployment
+* Modular backend organized around domain/application boundaries
 
-### 🎨 Front-End
+**Back-End:** Java 21 • Spring Boot • Spring Security • Spring Data JPA • Hibernate • PostgreSQL • Flyway
 
-Built with **React, TypeScript, and Vite**, with separate experiences for event organizers, customers, and gate operators.
+**Front-End:** React • TypeScript • Vite
 
-## 🛠️ Projects I'm Building
+---
 
 ### 🎫 Helpdesk API
 
 [GitHub Repository](https://github.com/SauloSSM/helpdesk-api)
 
-A help desk management API I'm building to strengthen the fundamentals of a **clean and maintainable Spring Boot application**.
+A smaller back-end project focused on strengthening the fundamentals of a **clean and maintainable Spring Boot application**.
 
-Instead of introducing unnecessary architectural complexity, the goal is to practice organizing a back-end correctly: keeping responsibilities clear, placing business rules in the appropriate layers, designing consistent APIs, handling failures properly, and building a solid automated testing strategy.
+The goal is intentionally simpler than my larger projects: practice organizing responsibilities clearly, designing consistent APIs, modeling ticket workflows, handling failures correctly, working with persistence, and building a solid testing strategy without unnecessary architectural complexity.
 
-### Main Areas
-
-* Ticket management
-* Users and support agents
-* Categories and priorities
-* Ticket lifecycle and status transitions
-* Interaction history
-* Filtering, sorting, and pagination
-* Authentication and authorization
-* Validation and centralized error handling
-* Unit and integration testing
+**Main areas:** ticket lifecycle • users and support agents • categories and priorities • filtering and pagination • authentication and authorization • validation • exception handling • unit and integration testing
 
 **Stack:** Java • Spring Boot • Spring Data JPA • Hibernate • PostgreSQL • Maven
-
-##
-
-### 🪖 Sentinela TG
-
-A personnel and duty-management system focused on a more **rule-intensive domain**.
-
-Sentinela is designed to manage **personnel, duties, availability, absences, and service schedules**, with particular attention to the constraints involved in generating fair and valid schedules.
-
-Unlike simpler management systems, the main challenge is not only storing information but **modeling domain rules and making decisions based on multiple constraints**.
-
-### Domain Challenges
-
-* Personnel availability
-* Duty eligibility
-* Schedule conflicts
-* Minimum rest periods
-* Fair distribution of services
-* Absences and restrictions
-* Automated schedule generation
-* Conflict detection and validation
-
-### Planned Architecture & Stack
-
-* Java + Spring Boot
-* Angular + TypeScript
-* PostgreSQL
-* Modular monolith
-* Isolated and testable domain rules
-* Authentication and role-based authorization
-* Automated testing
-
-This project is also an opportunity to deepen my knowledge of **Angular and domain-oriented software design**.
 
 ## 💡 Core Technologies
 
@@ -132,7 +97,7 @@ This project is also an opportunity to deepen my knowledge of **Angular and doma
   <img height="35" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 </a>
 
-### Database
+### Databases
 
 <a href="https://www.postgresql.org/">
   <img height="35" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -170,15 +135,16 @@ This project is also an opportunity to deepen my knowledge of **Angular and doma
 
 ## 🧠 What I'm Deepening
 
-* ☕ **Java & Spring Ecosystem** – Strengthening my back-end fundamentals and understanding of the Spring ecosystem
-* 🏗️ **Software Architecture** – Modular monoliths, boundaries, coupling, domain modeling, and architectural trade-offs
+* ☕ **Java & Spring** – Building stronger fundamentals and understanding what frameworks abstract away
+* 🌐 **End-to-End Web Flow** – Understanding the path from browser and HTTP to Spring, persistence, SQL, and back
+* 🏗️ **Software Architecture** – Responsibilities, coupling, cohesion, modular monoliths, boundaries, and trade-offs
 * 🧩 **Domain Modeling** – Translating real-world constraints and business rules into maintainable software
-* 🧪 **Automated Testing** – Improving unit, integration, and end-to-end testing strategies
-* 🔄 **Concurrency & Transactions** – Understanding consistency and safe operations in business-critical flows
-* 🗄️ **Database Design** – PostgreSQL, SQL, persistence, migrations, and data modeling
-* 🅰️ **Angular** – Expanding beyond React and learning structured front-end architecture
-* 🐳 **Docker & Deployment** – Building reproducible environments and improving application delivery
-* ☁️ **AWS & Cloud Computing** – Learning cloud fundamentals, infrastructure, and deployment concepts
+* 🧪 **Automated Testing** – Improving unit, web, integration, and regression testing
+* 🔄 **Concurrency & Transactions** – Understanding consistency, locking, idempotency, and safe concurrent operations
+* 🗄️ **Databases** – PostgreSQL, SQL, JPA/Hibernate behavior, migrations, indexes, and relational modeling
+* 🔐 **Application Security** – Authentication, authorization, sessions/tokens, CSRF, and CORS
+* 🅰️ **Angular & Front-End Architecture** – Improving component composition, routing, state, and separation of responsibilities
+* 🐳 **Delivery & Operations** – Docker, CI/CD, deployment, logs, and observability
 
 ## 📊 GitHub Stats
 
